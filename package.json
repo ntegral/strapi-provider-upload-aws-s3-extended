@@ -6,7 +6,7 @@
       "url": "https://www.ntegral.com"
     }
   ],
-  "name": "@ntegral/strapi-provider-upload-aws-s3-extended",
+  "name": "strapi-provider-upload-aws-s3-folder",
   "version": "1.0.0",
   "description": "Strapi provider for secure uploads to AWS S3",
   "main": "./lib/index.js",
